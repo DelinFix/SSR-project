@@ -5,5 +5,5 @@
 - HTML+CSS+SCSS
 - React
 - JSON запрос
-- Node JS
+- Next JS
 
